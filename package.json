@@ -1,0 +1,14 @@
+{
+  "name": "smartrmatrix",
+  "version": "1.0.0",
+  "description": "SMarTrMatriX — matrix rain by smartragents.ai: Linux CLI, Windows screensaver and web embed in one script",
+  "bin": {
+    "matrix": "./matrix.js"
+  },
+  "pkg": {
+    "targets": ["node18-win-x64", "node18-linux-x64"],
+    "outputPath": "dist"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}

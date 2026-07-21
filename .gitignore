@@ -1,0 +1,4 @@
+node_modules/
+dist/
+windows/matrix.exe
+windows/matrix.scr
