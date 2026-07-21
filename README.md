@@ -80,6 +80,12 @@ see `web/EINBAU.md` and `web/example.html`.
   visually, even over hours
 - Reacts live to terminal resize
 
+## Milestone
+
+Our first public repository — July 21, 2026. 🚁
+
+![First repository — SMarTrMatriX, July 21 2026](assets/first-repository.png)
+
 ## License
 
 [MIT](LICENSE) — © 2026 SMarTrAgents (smartragents.ai)
@@ -168,6 +174,12 @@ beliebige Webseiten — siehe `web/EINBAU.md` und `web/example.html`.
   gestreut (kein Aussetzer, nur Auffrischung), damit es auch über Stunden
   hinweg nicht optisch "einfriert"
 - Reagiert live auf Terminal-Resize
+
+### Meilenstein
+
+Unser erstes öffentliches Repository — 21. Juli 2026. 🚁
+
+![First repository — SMarTrMatriX, 21. Juli 2026](assets/first-repository.png)
 
 ### Lizenz
 
