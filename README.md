@@ -6,8 +6,9 @@ Matrix rain by [smartragents.ai](https://www.smartragents.ai) — green code
 rain with an occasional cyan "smartragents.ai" glitch and up to three red
 "agents" running through the code like in the movie. One script
 (`matrix.js`), three targets: Linux CLI command, Windows screensaver and web
-embed (`web/`). See it live at
-[smartragents.ai/matrix](https://smartragents.ai/matrix).
+embed (`web/`).
+
+**▶ Live demo: [smartragents.ai/matrix](https://smartragents.ai/matrix)**
 
 ## Linux: install as a CLI command
 
@@ -94,8 +95,9 @@ Matrix-Regen von [smartragents.ai](https://www.smartragents.ai) — grüner
 Code-Regen mit gelegentlichem cyanfarbenem "smartragents.ai"-Glitch und bis
 zu drei roten "Agenten", die wie im Film durch den Code laufen. Ein Skript
 (`matrix.js`), drei Ziele: Linux-CLI-Befehl, Windows-Bildschirmschoner und
-Web-Embed (`web/`). Live zu sehen auf
-[smartragents.ai/matrix](https://smartragents.ai/matrix).
+Web-Embed (`web/`).
+
+**▶ Live-Demo: [smartragents.ai/matrix](https://smartragents.ai/matrix)**
 
 ### Linux: als CLI-Befehl installieren
 
