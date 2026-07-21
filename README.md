@@ -84,8 +84,8 @@ see `web/EINBAU.md` and `web/example.html`.
 
 [MIT](LICENSE) — © 2026 SMarTrAgents (smartragents.ai)
 
-Made by [smartragents.ai](https://www.smartragents.ai) with **Fable 5**
-(Anthropic) — built in partnership.
+[SMarTrAgents.ai](https://www.smartragents.ai) by **₳K₳ŦØŇǤƗɆ** with
+**Fable 5** (Anthropic) — built in partnership.
 
 ---
 
@@ -173,5 +173,5 @@ beliebige Webseiten — siehe `web/EINBAU.md` und `web/example.html`.
 
 [MIT](LICENSE) — © 2026 SMarTrAgents (smartragents.ai)
 
-Erstellt von [smartragents.ai](https://www.smartragents.ai) mit **Fable 5**
-(Anthropic) — in Partnerschaft gebaut.
+[SMarTrAgents.ai](https://www.smartragents.ai) von **₳K₳ŦØŇǤƗɆ** mit
+**Fable 5** (Anthropic) — in Partnerschaft gebaut.

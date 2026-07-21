@@ -1,5 +1,6 @@
 /*!
- * smartragents.ai matrix rain — Embed-Version für beliebige Webseiten.
+ * SMarTrMatriX — smartragents.ai matrix rain, Embed-Version für beliebige Webseiten.
+ * SMarTrAgents.ai by ₳K₳ŦØŇǤƗɆ with Fable 5 (Anthropic). MIT license.
  * Kein Framework, keine Abhängigkeiten. Einbau siehe EINBAU.md.
  *
  * Minimal:

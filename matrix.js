@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 //
-// smartragents.ai matrix rain — terminal CLI + Windows screensaver in one script.
+// SMarTrMatriX — smartragents.ai matrix rain.
+// Terminal CLI + Windows screensaver in one script.
+// SMarTrAgents.ai by ₳K₳ŦØŇǤƗɆ with Fable 5 (Anthropic). MIT license.
 //
 // Usage:
 //   matrix             endless loop, Ctrl+C to quit
